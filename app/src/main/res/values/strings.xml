@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musically</string>
+    <string name="plays_next_song">Plays Next Song</string>
+    <string name="plays_previous_song">Plays Previous Song</string>
+    <string name="play">Play</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="track_list">Track List</string>
+    <string name="albums">Albums</string>
+    <string name="Pause">Pause</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="albumname">AlbumName</string>
+
+</resources>
